@@ -1,2 +1,3 @@
-# data1
-testing
+# data ztable
+
+Custom table with one record
