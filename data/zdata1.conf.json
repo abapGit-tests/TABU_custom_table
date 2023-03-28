@@ -1,5 +1,6 @@
 {
   "name": "ZDATA1",
+  "skip_initial": false,
   "type": "TABU",
   "where": []
 }
