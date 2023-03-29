@@ -1,3 +1,3 @@
-# data custom table
+# TABU custom table
 
-Custom table with one record
+Customizing table with one record
