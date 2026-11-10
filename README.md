@@ -1,3 +1,6 @@
 # TABU custom table
 
-Customizing table with one record
+Customizing tables with data:
+
+- `ZDATA1`: one record
+- `ZDATA_DEC`: DEC key field, two records
